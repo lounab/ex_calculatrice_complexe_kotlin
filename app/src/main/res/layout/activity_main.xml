@@ -210,7 +210,7 @@
                 android:layout_marginRight="1pt"
                 android:layout_weight="1"
                 android:background="@color/purple_200"
-                android:onClick="pointEvent"
+                android:onClick="numberEvent"
                 android:text="."
                 android:textColor="@color/white"></Button>
 
